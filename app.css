@@ -5,10 +5,10 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
+  height: 130vh;
   width: 100%;
   background-image: linear-gradient(rgba(4,3,40,0.9),rgba(4,3,40,0.9)),url(back.webp);
-  padding: 2%;
+  padding: 10%;
 
 }
 .iphone{
@@ -217,7 +217,6 @@ justify-content: center;
 text-align: center;
 border-radius: 25px;
 margin-left: 9px;
-}
 .fa-sun{
 color: #ff6b35;
 background-color: #0000;
